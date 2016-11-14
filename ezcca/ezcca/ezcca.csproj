@@ -424,6 +424,7 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
+    <Folder Include="TestFolder\" />
   </ItemGroup>
   <ItemGroup>
     <WCFMetadata Include="Service References\" />
